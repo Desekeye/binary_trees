@@ -7,8 +7,7 @@
 #include <limits.h>
 
 /**
- *
- * * struct binary_tree_s - Binary tree node
+ * struct binary_tree_s - Binary tree node
  *
  * @n: Integer stored in the node
  * @parent: Pointer to the parent node
